@@ -2,7 +2,7 @@
 
 Proyek latihan analisis data: membersihkan data kemiskinan dari BPS dengan Python, menganalisisnya dengan SQL (MySQL), dan memvisualisasikannya dalam dashboard Tableau.
 
-![Dashboard Kemiskinan](image/Dashboard_Kemiskinan.png)
+![Dashboard Kemiskinan](image/Dashboard Kemiskinan.png)
 
 ## Pertanyaan yang dijawab
 1. Provinsi mana yang persentase penduduk miskinnya tertinggi pada September 2025?

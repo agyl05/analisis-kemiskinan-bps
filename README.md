@@ -18,7 +18,7 @@ Proyek latihan analisis data: membersihkan data kemiskinan dari BPS dengan Pytho
    - Kolom "Tahunan" yang kosong dan baris catatan dibuang.
    - Nilai "-" dan nilai 0 pada DKI Jakarta perdesaan (yang tidak punya wilayah perdesaan) dijadikan NULL.
    - Data yang memang belum tersedia (460 nilai) dibiarkan kosong, tidak diisi atau diperkirakan.
-2. **Analisis (SQL, MySQL via Laragon dan HeidiSQL):** [`sql/kemiskinan.sql`](sql/coba.sql)
+2. **Analisis (SQL, MySQL via Laragon dan HeidiSQL):** [`sql/kemiskinan.sql`](sql/analisis.sql)
    - Berisi pembuatan tabel, pemeriksaan data, dan lima query analisis.
 3. **Visualisasi (Tableau):** [`tableau/dashboard_kemiskinan_paket.twbx`](tableau/dashboard_kemiskinan.twbx)
    - Tiga grafik: peringkat provinsi, tren nasional, dan perbandingan perdesaan vs perkotaan.
